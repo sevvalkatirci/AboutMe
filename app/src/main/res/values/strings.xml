@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Sevval Katirci</string>
+    <string name="yellow_string">Yellow sttring</string>
+    <string name="bio_str">I have been programming applications and games since my first year at the university. Developing applications with every detail and solving the problems that arise in the meantime is one of my biggest passions.I developed games using C# and Java. I got a lot of experience with OOP. I have learned countless new things from the mistakes that have come my way. The feedbacks of my valuable teammates that I worked with helped me to improve myselfI have been programming applications and games since my first year at the university. Developing applications with every detail and solving the problems that arise in the meantime is one of my biggest passions.I developed games using C# and Java. I got a lot of experience with OOP. I have learned countless new things from the mistakes that have come my way. The feedbacks of my valuable teammates that I worked with helped me to improve myself</string>
+    <string name="nickname">What is your nickname?</string>
+    <string name="done_button">Button</string>
+
+</resources>
